@@ -1,10 +1,11 @@
 # Configurations
-title:            Week 2 Refresher in CS
+title:            Week 2 Refresher in CS -  Ronnish Rajanah
 longtitle:        
 author:           Ronnish R.Y
 email:            ronnish101@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  Build Jekyll site with the GitBook style. This is a project that make use of github actions. 
+  The following website is a detail explanation on how to make use of this github actions. 
 
 version:          1.0
 gitbook_version:  3.2.3
