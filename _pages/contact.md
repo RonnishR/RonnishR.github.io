@@ -6,4 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-This is an contact page.
+You can contact me @ +758 475 8659 1222
+or by mail: ronisthebest@gmail.com
